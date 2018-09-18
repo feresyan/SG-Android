@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LearnSGMobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_nama">Nama Lengkap</string>
+    <string name="hint_umur">Umur</string>
+    <string name="text_btn_proses">Proses</string>
+    <string name="text_nama">Nama</string>
+    <string name="text_gender">Gender</string>
+    <string name="text_umur">Umur</string>
+
+    <string-array name="array_gender">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
